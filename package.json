@@ -4,7 +4,7 @@
   "description": "Project with gulp",
   "author": "yevhen-hapchenko",
   "private": true,
-  "license": "GNU General Public License (GPL)",
+  "license": "ISC",
   "devDependencies": {
     "browser-sync": "latest",
     "del": "6.1.1",
