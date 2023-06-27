@@ -2,7 +2,7 @@
   "name": "hw2-yevhen-hapchenko",
   "version": "1.0.0",
   "description": "Project with gulp",
-  "author": "FLS",
+  "author": "yevhen-hapchenko",
   "private": true,
   "license": "GNU General Public License (GPL)",
   "devDependencies": {
